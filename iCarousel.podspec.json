@@ -18,7 +18,7 @@
   "requires_arc": true,
   "frameworks": "QuartzCore",
   "platforms": {
-    "ios": "4.3",
+    "ios": "9.0",
     "osx": "10.6"
   }
 }
